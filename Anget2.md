@@ -49,9 +49,10 @@ python3 -m http.server 8000
 - Bootstrap、Google Fonts 目前由 CDN 提供；正式網站須可連網載入這些資源。
 
 ## Github推送地址
-Git user.name：<winnie931226-eng>
+Git user.name：winnie931226-eng
 專案名稱：-i
 HTTPS:https://github.com/winnie931226-eng/-i.git
 SSH:git@github.com:winnie931226-eng/-i.git
 Repository URL：https://github.com/<innie931226-eng>/<-i>.git
 Git user.email：<winnie931226@gmail.com>
+git push -u origin main
